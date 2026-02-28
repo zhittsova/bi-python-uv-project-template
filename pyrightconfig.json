@@ -1,0 +1,21 @@
+{
+    "venvPath": ".",
+    "venv": ".venv",
+    "include": [
+        "packages/**/src",
+        "packages/**/tests",
+        "apps/**/src",
+        "apps/**/tests",
+        "apps/**/*.py"
+    ],
+    "extraPaths": [
+        "packages/**/src",
+        "packages/**/tests",
+        "apps/**/src",
+        "apps/**/tests",
+        "apps/**/*.py"
+    ],
+    "typeCheckingMode": "strict",
+    "reportMissingTypeStubs": false,
+    "reportUnknownMemberType": false
+}

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: bi-python-project-template
+message: "If you use this repo, please cite it."
+type: software
+authors:
+  - family-names: "Name"
+    given-names: "Your"
+version: 0.1.0
+date-released: 2026-02-28
+license: GPL-3.0-or-later
