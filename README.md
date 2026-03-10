@@ -1,6 +1,7 @@
 # bi-python-project-template
 
 ![CI](https://github.com/OWNER/bi-python-project-template/actions/workflows/ci.yml/badge.svg)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OWNER/bi-python-project-template/main?labpath=notebooks)
 
 > _One-line project description._
 
